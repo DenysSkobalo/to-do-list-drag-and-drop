@@ -1,0 +1,29 @@
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.example-list {
+  border: 1px solid #ccc;
+  min-height: 60px;
+  background: #fff;
+  border-radius: 4px;
+  display: block;
+}
+
+.example-box {
+  padding: 20px 10px;
+  border-bottom: 1px solid #ccc;
+  color: #101010;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  cursor: move;
+  background: #fff;
+  font-size: 14px;
+}
+
+input {
+  padding: 20px 10px;
+}
